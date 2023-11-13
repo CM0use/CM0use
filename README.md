@@ -6,8 +6,9 @@
   <p>I love everything related to programming and even more if you add mathematics to it.</p>
 </div>
 
-### Languages/Tools:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CM0use&layout=compact&theme=dark)
 
+### Languages/Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>
@@ -15,7 +16,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" **alt="Qt" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" **alt="Java" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
-</div><br>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CM0use&layout=compact&theme=dark)<br>
-![](https://github-readme-stats.vercel.app/api?username=CM0use&theme=dark)
+</div>
