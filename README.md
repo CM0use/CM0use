@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://static.wikia.nocookie.net/the-salem/images/f/f9/Brown_Jenkins_Infobox.gif"><br>
   <h1>
-    Hi I'm CM0use:rat:
+    Hi I'm CM0use
   </h1>
   <p>I love everything related to programming and even more if you add mathematics to it.</p>
 </div>
